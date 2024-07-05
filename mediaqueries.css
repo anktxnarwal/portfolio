@@ -48,6 +48,7 @@
   }
   .contact-info-upper-container {
     flex-wrap: wrap;
+    width: 320px;
   }
   .nav-links {
     flex-direction: column;
